@@ -6,7 +6,7 @@ en cliquant sur les pads ou en utilisant le clavier.
 ---
 
 ## 🚀 Live Demo
-👉 https://github.com/codeur-lokikacaleb/drum-machine/
+👉 https://codeur-lokikacaleb.github.io/drum-machine/
 
 ---
 
