@@ -1,0 +1,29 @@
+#drum-machine {
+     width: 400px;
+     margin: 50px auto;
+     text-align: center;
+     background: #222;
+     color: white;
+     padding: 20px;
+     border-radius: 10px; }
+#pad-bank {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 10px;
+    justify-content: center;
+    margin-top: 20px; }
+.drum-pad {
+        background: #444;
+        border: none;
+        border-radius: 5px;
+        font-size: 20px;
+        color: white;
+        cursor: pointer;
+        padding: 20px; }
+        .drum-pad:active {
+            background: #666;
+        } 
+#display {
+    margin-top: 20px;
+    font-size: 18px;
+    min-height: 30px; }
