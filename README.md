@@ -6,7 +6,7 @@ en cliquant sur les pads ou en utilisant le clavier.
 ---
 
 ## 🚀 Live Demo
-👉 https://codepen.io/tonpseudo/pen/xxxxx
+👉 https://github.com/codeur-lokikacaleb/drum-machine/
 
 ---
 
